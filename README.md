@@ -22,5 +22,11 @@ an extremely simple yet fast and modern VPN
 ## 使用Usage:
 **client:**
 
+在IOS app store 或 macOS app store install 'wireguard'.
 
 
+## also see:
+
+[openvpn-install](https://github.com/Nyr/openvpn-install)
+
+---
