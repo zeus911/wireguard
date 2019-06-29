@@ -12,7 +12,7 @@ an extremely simple yet fast and modern VPN
 [AzireVPN](https://www.azirevpn.com)
 
 ## 安装Installion:
-**server side**
+**server side:**
 [wireguard-install](https://github.com/l-n-s/wireguard-install)
 
 
