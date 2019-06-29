@@ -1,0 +1,2 @@
+# wireguard
+new vpn 
