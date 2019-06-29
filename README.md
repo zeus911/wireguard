@@ -21,7 +21,10 @@ an extremely simple yet fast and modern VPN
 
 > ./wireguard-install.sh
 
+---
+
 > wg 
+
 > wg -h
 
 
