@@ -27,6 +27,8 @@ an extremely simple yet fast and modern VPN
 
 > wg -h
 
+> wg-quick
+
 
 ## 使用Usage:
 **client:**
