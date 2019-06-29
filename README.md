@@ -16,8 +16,14 @@ an extremely simple yet fast and modern VPN
 [wireguard-install](https://github.com/l-n-s/wireguard-install)
 
 > wget https://raw.githubusercontent.com/st286/wireguard/master/wireguard-install.sh
+
 > chmod +x wireguard-install.sh
+
 > ./wireguard-install.sh
+
+> wg 
+> wg -h
+
 
 ## 使用Usage:
 **client:**
