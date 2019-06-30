@@ -17,13 +17,17 @@ an extremely simple yet fast and modern VPN
 
 ```shell
  wget https://raw.githubusercontent.com/st286/wireguard/master/wireguard-install.sh
+ 
  chmod +x wireguard-install.sh
+ 
  ./wireguard-install.sh
 ```
 ---
 ```shell
  wg 
+ 
  wg -h
+ 
  wg-quick
 ```
 
